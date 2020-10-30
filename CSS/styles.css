@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+h1{
+    color:white;
+}
+h2{
+    color : white;
+}
+h3{
+    color : white;
+}
+h4{
+    color : white;
+}
+img{
+    height: 150px;
+    width: 150px;
+}
+.table-1{
+    color : white;
+}
+.table2{
+    color: white;
+}
+.table3{
+    color: white;
+}
+.ul-1{
+    color: white;
+}
+.btnview{
+    width: 50;
+    height: 20;
+}
+.div1{
+    color: white;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
